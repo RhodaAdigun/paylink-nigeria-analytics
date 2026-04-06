@@ -1,0 +1,260 @@
+{
+  "name": "PayLink Nigeria – Dark Executive",
+  "dataColors": [
+    "#2ECC71",
+    "#3498DB",
+    "#F39C12",
+    "#E74C3C",
+    "#1ABC9C",
+    "#9B59B6",
+    "#E67E22",
+    "#BDC3C7"
+  ],
+  "background": "#0F1117",
+  "foreground": "#E2E8F0",
+  "tableAccent": "#2ECC71",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "color": [{ "solid": { "color": "#E2E8F0" } }],
+        "background": [{ "solid": { "color": "#13171F" } }]
+      }
+    },
+
+    "page": {
+      "*": {
+        "background": [{ "solid": { "color": "#0F1117" } }],
+        "outspace": [{ "solid": { "color": "#0F1117" } }]
+      }
+    },
+
+    "card": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "border": [{ "solid": { "color": "#1E2432" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "labelFontSize": [{ "value": 10 }],
+        "labelColor": [{ "solid": { "color": "#7A8499" } }],
+        "fontSize": [{ "value": 28 }],
+        "color": [{ "solid": { "color": "#FFFFFF" } }]
+      }
+    },
+
+    "clusteredBarChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "axisColor": [{ "solid": { "color": "#2C3347" } }],
+        "gridlineColor": [{ "solid": { "color": "#1E2432" } }],
+        "labelColor": [{ "solid": { "color": "#7A8499" } }],
+        "dataLabelColor": [{ "solid": { "color": "#E2E8F0" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }]
+      }
+    },
+
+    "clusteredColumnChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "axisColor": [{ "solid": { "color": "#2C3347" } }],
+        "gridlineColor": [{ "solid": { "color": "#1E2432" } }],
+        "labelColor": [{ "solid": { "color": "#7A8499" } }],
+        "dataLabelColor": [{ "solid": { "color": "#E2E8F0" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }]
+      }
+    },
+
+    "lineChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "axisColor": [{ "solid": { "color": "#2C3347" } }],
+        "gridlineColor": [{ "solid": { "color": "#1E2432" } }],
+        "labelColor": [{ "solid": { "color": "#7A8499" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }],
+        "strokeWidth": [{ "value": 2 }]
+      }
+    },
+
+    "donutChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "labelColor": [{ "solid": { "color": "#E2E8F0" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }]
+      }
+    },
+
+    "pieChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "labelColor": [{ "solid": { "color": "#E2E8F0" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }]
+      }
+    },
+
+    "waterfallChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "axisColor": [{ "solid": { "color": "#2C3347" } }],
+        "gridlineColor": [{ "solid": { "color": "#1E2432" } }],
+        "labelColor": [{ "solid": { "color": "#7A8499" } }],
+        "sentimentColors": [
+          {
+            "increaseFill": { "solid": { "color": "#2ECC71" } },
+            "decreaseFill": { "solid": { "color": "#E74C3C" } },
+            "totalFill": { "solid": { "color": "#3498DB" } }
+          }
+        ],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }]
+      }
+    },
+
+    "scatterChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "axisColor": [{ "solid": { "color": "#2C3347" } }],
+        "gridlineColor": [{ "solid": { "color": "#1E2432" } }],
+        "labelColor": [{ "solid": { "color": "#7A8499" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }]
+      }
+    },
+
+    "filledMap": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "labelColor": [{ "solid": { "color": "#E2E8F0" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }]
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "gridColor": [{ "solid": { "color": "#1E2432" } }],
+        "textColor": [{ "solid": { "color": "#E2E8F0" } }],
+        "backColor": [{ "solid": { "color": "#13171F" } }],
+        "altBackColor": [{ "solid": { "color": "#181D28" } }],
+        "totalsColor": [{ "solid": { "color": "#2ECC71" } }]
+      },
+      "header": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "fontBold": [{ "value": true }],
+        "textColor": [{ "solid": { "color": "#FFFFFF" } }],
+        "backColor": [{ "solid": { "color": "#0A0D14" } }],
+        "borderColor": [{ "solid": { "color": "#2C3347" } }]
+      }
+    },
+
+    "matrix": {
+      "*": {
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "gridColor": [{ "solid": { "color": "#1E2432" } }],
+        "textColor": [{ "solid": { "color": "#E2E8F0" } }],
+        "backColor": [{ "solid": { "color": "#13171F" } }],
+        "altBackColor": [{ "solid": { "color": "#181D28" } }]
+      },
+      "header": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "fontBold": [{ "value": true }],
+        "textColor": [{ "solid": { "color": "#FFFFFF" } }],
+        "backColor": [{ "solid": { "color": "#0A0D14" } }],
+        "borderColor": [{ "solid": { "color": "#2C3347" } }]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "background": [{ "solid": { "color": "#080B11" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "textColor": [{ "solid": { "color": "#7A8499" } }],
+        "outlineColor": [{ "solid": { "color": "#1E2432" } }],
+        "selectionColor": [{ "solid": { "color": "#2ECC71" } }],
+        "hoverColor": [{ "solid": { "color": "#1E2432" } }]
+      }
+    },
+
+    "title": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "fontBold": [{ "value": false }],
+        "color": [{ "solid": { "color": "#B0B8CC" } }],
+        "background": [{ "solid": { "color": "#13171F" } }],
+        "border": [{ "solid": { "color": "#1E2432" } }],
+        "borderBottom": [{ "solid": { "color": "#1E2432" } }],
+        "transparency": [{ "value": 0 }]
+      }
+    },
+
+    "border": {
+      "*": {
+        "color": [{ "solid": { "color": "#1E2432" } }],
+        "radius": [{ "value": 7 }]
+      }
+    },
+
+    "visualTooltip": {
+      "*": {
+        "background": [{ "solid": { "color": "#1E2432" } }],
+        "foreground": [{ "solid": { "color": "#E2E8F0" } }],
+        "border": [{ "solid": { "color": "#2C3347" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }]
+      }
+    },
+
+    "label": {
+      "*": {
+        "color": [{ "solid": { "color": "#7A8499" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }]
+      }
+    }
+  },
+
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI",
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI",
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#B0B8CC"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#7A8499"
+    }
+  },
+
+  "good": "#2ECC71",
+  "neutral": "#F39C12",
+  "bad": "#E74C3C",
+
+  "maximum": "#2ECC71",
+  "center": "#F39C12",
+  "minimum": "#E74C3C",
+  "null": "#2C3347"
+}
