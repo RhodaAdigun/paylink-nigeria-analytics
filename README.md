@@ -94,6 +94,10 @@ to simulate realistic Nigerian fintech user behavior.
 - Active users favor: Bank Transfer, Savings Deposit, Merchant Payment
 
 
+<img width="869" height="486" alt="Screenshot 2026-04-18 154437" src="https://github.com/user-attachments/assets/4dc544cc-9e2e-41e7-8869-1a31080c85a2" />
+
+
+
 ## Recommendations
 
 1. **Fix the 16-day onboarding window** — deploy a structured Day 1/3/7/14 engagement sequence
